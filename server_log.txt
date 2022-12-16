@@ -1,0 +1,1175 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:49:14] 
+[30/06/2022 16:49:14] Server Plugins
+[30/06/2022 16:49:14] --------------
+[30/06/2022 16:49:14]  Loading plugin: streamer.dll
+[30/06/2022 16:49:14] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:49:14]   Loaded.
+[30/06/2022 16:49:14]  Loading plugin: sscanf.dll
+[30/06/2022 16:49:14] 
+
+[30/06/2022 16:49:14]  ===============================
+
+[30/06/2022 16:49:14]       sscanf plugin loaded.     
+
+[30/06/2022 16:49:14]          Version:  2.8.3        
+
+[30/06/2022 16:49:14]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:49:14]  ===============================
+
+[30/06/2022 16:49:14]   Loaded.
+[30/06/2022 16:49:14]  Loading plugin: mysql.dll
+[30/06/2022 16:49:15]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:49:15]   Loaded.
+[30/06/2022 16:49:15]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:49:15] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:49:15]   Loaded.
+[30/06/2022 16:49:15]  Loading plugin: pawncmd.dll
+[30/06/2022 16:49:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:49:15]   Loaded.
+[30/06/2022 16:49:15]  Loading plugin: nativechecker.dll
+[30/06/2022 16:49:15]   Loaded.
+[30/06/2022 16:49:15]  Loaded 6 plugins.
+
+[30/06/2022 16:49:15] I couldn't load any gamemode scripts. Please verify your server.cfg
+[30/06/2022 16:49:15] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:51:17] 
+[30/06/2022 16:51:17] Server Plugins
+[30/06/2022 16:51:17] --------------
+[30/06/2022 16:51:17]  Loading plugin: streamer.dll
+[30/06/2022 16:51:17] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:51:17]   Loaded.
+[30/06/2022 16:51:17]  Loading plugin: sscanf.dll
+[30/06/2022 16:51:17] 
+
+[30/06/2022 16:51:17]  ===============================
+
+[30/06/2022 16:51:17]       sscanf plugin loaded.     
+
+[30/06/2022 16:51:17]          Version:  2.8.3        
+
+[30/06/2022 16:51:17]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:51:17]  ===============================
+
+[30/06/2022 16:51:17]   Loaded.
+[30/06/2022 16:51:17]  Loading plugin: mysql.dll
+[30/06/2022 16:51:17]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:51:17]   Loaded.
+[30/06/2022 16:51:17]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:51:17] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:51:17]   Loaded.
+[30/06/2022 16:51:17]  Loading plugin: pawncmd.dll
+[30/06/2022 16:51:17] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:51:17]   Loaded.
+[30/06/2022 16:51:17]  Loading plugin: nativechecker.dll
+[30/06/2022 16:51:17]   Loaded.
+[30/06/2022 16:51:17]  Loaded 6 plugins.
+
+[30/06/2022 16:51:17] I couldn't load any gamemode scripts. Please verify your server.cfg
+[30/06/2022 16:51:17] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:51:18] 
+[30/06/2022 16:51:18] Server Plugins
+[30/06/2022 16:51:18] --------------
+[30/06/2022 16:51:18]  Loading plugin: streamer.dll
+[30/06/2022 16:51:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:51:18]   Loaded.
+[30/06/2022 16:51:18]  Loading plugin: sscanf.dll
+[30/06/2022 16:51:18] 
+
+[30/06/2022 16:51:18]  ===============================
+
+[30/06/2022 16:51:18]       sscanf plugin loaded.     
+
+[30/06/2022 16:51:18]          Version:  2.8.3        
+
+[30/06/2022 16:51:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:51:18]  ===============================
+
+[30/06/2022 16:51:18]   Loaded.
+[30/06/2022 16:51:18]  Loading plugin: mysql.dll
+[30/06/2022 16:51:18]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:51:18]   Loaded.
+[30/06/2022 16:51:18]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:51:18] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:51:18]   Loaded.
+[30/06/2022 16:51:18]  Loading plugin: pawncmd.dll
+[30/06/2022 16:51:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:51:18]   Loaded.
+[30/06/2022 16:51:18]  Loading plugin: nativechecker.dll
+[30/06/2022 16:51:18]   Loaded.
+[30/06/2022 16:51:18]  Loaded 6 plugins.
+
+[30/06/2022 16:51:18] I couldn't load any gamemode scripts. Please verify your server.cfg
+[30/06/2022 16:51:18] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:51:19] 
+[30/06/2022 16:51:19] Server Plugins
+[30/06/2022 16:51:19] --------------
+[30/06/2022 16:51:19]  Loading plugin: streamer.dll
+[30/06/2022 16:51:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:51:19]   Loaded.
+[30/06/2022 16:51:19]  Loading plugin: sscanf.dll
+[30/06/2022 16:51:19] 
+
+[30/06/2022 16:51:19]  ===============================
+
+[30/06/2022 16:51:19]       sscanf plugin loaded.     
+
+[30/06/2022 16:51:19]          Version:  2.8.3        
+
+[30/06/2022 16:51:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:51:19]  ===============================
+
+[30/06/2022 16:51:19]   Loaded.
+[30/06/2022 16:51:19]  Loading plugin: mysql.dll
+[30/06/2022 16:51:19]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:51:19]   Loaded.
+[30/06/2022 16:51:19]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:51:19] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:51:19]   Loaded.
+[30/06/2022 16:51:19]  Loading plugin: pawncmd.dll
+[30/06/2022 16:51:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:51:19]   Loaded.
+[30/06/2022 16:51:19]  Loading plugin: nativechecker.dll
+[30/06/2022 16:51:19]   Loaded.
+[30/06/2022 16:51:19]  Loaded 6 plugins.
+
+[30/06/2022 16:51:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[30/06/2022 16:51:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:51:20] 
+[30/06/2022 16:51:20] Server Plugins
+[30/06/2022 16:51:20] --------------
+[30/06/2022 16:51:20]  Loading plugin: streamer.dll
+[30/06/2022 16:51:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:51:20]   Loaded.
+[30/06/2022 16:51:20]  Loading plugin: sscanf.dll
+[30/06/2022 16:51:20] 
+
+[30/06/2022 16:51:20]  ===============================
+
+[30/06/2022 16:51:20]       sscanf plugin loaded.     
+
+[30/06/2022 16:51:20]          Version:  2.8.3        
+
+[30/06/2022 16:51:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:51:20]  ===============================
+
+[30/06/2022 16:51:20]   Loaded.
+[30/06/2022 16:51:20]  Loading plugin: mysql.dll
+[30/06/2022 16:51:20]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:51:20]   Loaded.
+[30/06/2022 16:51:20]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:51:20] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:51:20]   Loaded.
+[30/06/2022 16:51:20]  Loading plugin: pawncmd.dll
+[30/06/2022 16:51:20] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:51:20]   Loaded.
+[30/06/2022 16:51:20]  Loading plugin: nativechecker.dll
+[30/06/2022 16:51:20]   Loaded.
+[30/06/2022 16:51:20]  Loaded 6 plugins.
+
+[30/06/2022 16:51:20] I couldn't load any gamemode scripts. Please verify your server.cfg
+[30/06/2022 16:51:20] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:51:21] 
+[30/06/2022 16:51:21] Server Plugins
+[30/06/2022 16:51:21] --------------
+[30/06/2022 16:51:21]  Loading plugin: streamer.dll
+[30/06/2022 16:51:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:51:21]   Loaded.
+[30/06/2022 16:51:21]  Loading plugin: sscanf.dll
+[30/06/2022 16:51:21] 
+
+[30/06/2022 16:51:21]  ===============================
+
+[30/06/2022 16:51:21]       sscanf plugin loaded.     
+
+[30/06/2022 16:51:21]          Version:  2.8.3        
+
+[30/06/2022 16:51:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:51:21]  ===============================
+
+[30/06/2022 16:51:21]   Loaded.
+[30/06/2022 16:51:21]  Loading plugin: mysql.dll
+[30/06/2022 16:51:21]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:51:21]   Loaded.
+[30/06/2022 16:51:21]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:51:21] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:51:21]   Loaded.
+[30/06/2022 16:51:21]  Loading plugin: pawncmd.dll
+[30/06/2022 16:51:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:51:21]   Loaded.
+[30/06/2022 16:51:21]  Loading plugin: nativechecker.dll
+[30/06/2022 16:51:21]   Loaded.
+[30/06/2022 16:51:21]  Loaded 6 plugins.
+
+[30/06/2022 16:51:21] I couldn't load any gamemode scripts. Please verify your server.cfg
+[30/06/2022 16:51:21] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:52:01] 
+[30/06/2022 16:52:01] Server Plugins
+[30/06/2022 16:52:01] --------------
+[30/06/2022 16:52:01]  Loading plugin: streamer.dll
+[30/06/2022 16:52:01] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:52:01]   Loaded.
+[30/06/2022 16:52:01]  Loading plugin: sscanf.dll
+[30/06/2022 16:52:01] 
+
+[30/06/2022 16:52:01]  ===============================
+
+[30/06/2022 16:52:01]       sscanf plugin loaded.     
+
+[30/06/2022 16:52:01]          Version:  2.8.3        
+
+[30/06/2022 16:52:01]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:52:01]  ===============================
+
+[30/06/2022 16:52:01]   Loaded.
+[30/06/2022 16:52:01]  Loading plugin: mysql.dll
+[30/06/2022 16:52:01]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:52:01]   Loaded.
+[30/06/2022 16:52:01]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:52:01] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:52:01]   Loaded.
+[30/06/2022 16:52:01]  Loading plugin: pawncmd.dll
+[30/06/2022 16:52:01] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:52:01]   Loaded.
+[30/06/2022 16:52:01]  Loading plugin: nativechecker.dll
+[30/06/2022 16:52:02]   Loaded.
+[30/06/2022 16:52:02]  Loaded 6 plugins.
+
+[30/06/2022 16:52:02] 
+[30/06/2022 16:52:02] Filterscripts
+[30/06/2022 16:52:02] ---------------
+[30/06/2022 16:52:02]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 16:52:02]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 16:52:02]   Loaded 2 filterscripts.
+
+[30/06/2022 16:52:02] |------------------------------------------|
+[30/06/2022 16:52:02] | Conexión fallida con la base de datos  |
+[30/06/2022 16:52:02] | El servidor se cerrará en 5 segundos...  |
+[30/06/2022 16:52:02] |------------------------------------------|
+[30/06/2022 16:52:02]  
+[30/06/2022 16:52:02] Number of vehicle models: 3
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback -  - Query: UPDATE `usuarios` SET `Online` = '0'
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - OnQueryFinish - Query: SELECT * FROM action_queue WHERE status = '0'
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - CargarAutos - Query: SELECT * FROM `vehicles`
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - CargarBandas - Query: SELECT * FROM `facciones`
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - CargarRegistros - Query: SELECT * FROM `registros`
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - CargarPropiedades - Query: SELECT * FROM `propiedades`
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - LoadParkings - Query: SELECT * FROM estacionamientos
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - LoadDoor - Query: SELECT * FROM `doors`
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - cargarRoboTiendas - Query: SELECT * FROM `actores_tiendas`
+[30/06/2022 16:52:04] [ERROR] ID: 1049 - Error: Unknown database 'fenixzonerol1' - Callback - CargarZonas - Query: SELECT * FROM `zonas` WHERE `Z_Activa` = '1' LIMIT 100
+[30/06/2022 16:52:08] --- Server Shutting Down.
+[30/06/2022 16:52:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[30/06/2022 16:52:08] 
+
+[30/06/2022 16:52:08]  ===============================
+
+[30/06/2022 16:52:08]      sscanf plugin unloaded.    
+
+[30/06/2022 16:52:08]  ===============================
+
+[30/06/2022 16:52:08] plugin.mysql: Unloading plugin...
+[30/06/2022 16:52:08] plugin.mysql: Plugin unloaded.
+[30/06/2022 16:52:08] Pawn.RakNet plugin v1.3.0 by urShadow has been unloaded
+[30/06/2022 16:52:08] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:56:27] 
+[30/06/2022 16:56:27] Server Plugins
+[30/06/2022 16:56:27] --------------
+[30/06/2022 16:56:27]  Loading plugin: streamer.dll
+[30/06/2022 16:56:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:56:27]   Loaded.
+[30/06/2022 16:56:27]  Loading plugin: sscanf.dll
+[30/06/2022 16:56:27] 
+
+[30/06/2022 16:56:27]  ===============================
+
+[30/06/2022 16:56:27]       sscanf plugin loaded.     
+
+[30/06/2022 16:56:27]          Version:  2.8.3        
+
+[30/06/2022 16:56:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:56:27]  ===============================
+
+[30/06/2022 16:56:27]   Loaded.
+[30/06/2022 16:56:27]  Loading plugin: mysql.dll
+[30/06/2022 16:56:27]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:56:27]   Loaded.
+[30/06/2022 16:56:27]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:56:27] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:56:27]   Loaded.
+[30/06/2022 16:56:27]  Loading plugin: pawncmd.dll
+[30/06/2022 16:56:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:56:27]   Loaded.
+[30/06/2022 16:56:27]  Loading plugin: nativechecker.dll
+[30/06/2022 16:56:27]   Loaded.
+[30/06/2022 16:56:27]  Loaded 6 plugins.
+
+[30/06/2022 16:56:27] 
+[30/06/2022 16:56:27] Filterscripts
+[30/06/2022 16:56:27] ---------------
+[30/06/2022 16:56:27]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 16:56:27]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 16:56:27]   Loaded 2 filterscripts.
+
+[30/06/2022 16:56:28] |------------------------------------------|
+[30/06/2022 16:56:28] | Conexión fallida con la base de datos  |
+[30/06/2022 16:56:28] | El servidor se cerrará en 5 segundos...  |
+[30/06/2022 16:56:28] |------------------------------------------|
+[30/06/2022 16:56:28]  
+[30/06/2022 16:56:28] Number of vehicle models: 3
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback -  - Query: UPDATE `usuarios` SET `Online` = '0'
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - OnQueryFinish - Query: SELECT * FROM action_queue WHERE status = '0'
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - CargarAutos - Query: SELECT * FROM `vehicles`
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - CargarBandas - Query: SELECT * FROM `facciones`
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - CargarRegistros - Query: SELECT * FROM `registros`
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - CargarPropiedades - Query: SELECT * FROM `propiedades`
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - LoadParkings - Query: SELECT * FROM estacionamientos
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - LoadDoor - Query: SELECT * FROM `doors`
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - cargarRoboTiendas - Query: SELECT * FROM `actores_tiendas`
+[30/06/2022 16:56:30] [ERROR] ID: 1049 - Error: Unknown database 'fzrol1' - Callback - CargarZonas - Query: SELECT * FROM `zonas` WHERE `Z_Activa` = '1' LIMIT 100
+[30/06/2022 16:56:33] --- Server Shutting Down.
+[30/06/2022 16:56:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[30/06/2022 16:56:33] 
+
+[30/06/2022 16:56:33]  ===============================
+
+[30/06/2022 16:56:33]      sscanf plugin unloaded.    
+
+[30/06/2022 16:56:33]  ===============================
+
+[30/06/2022 16:56:33] plugin.mysql: Unloading plugin...
+[30/06/2022 16:56:33] plugin.mysql: Plugin unloaded.
+[30/06/2022 16:56:33] Pawn.RakNet plugin v1.3.0 by urShadow has been unloaded
+[30/06/2022 16:56:33] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 16:57:47] 
+[30/06/2022 16:57:47] Server Plugins
+[30/06/2022 16:57:47] --------------
+[30/06/2022 16:57:47]  Loading plugin: streamer.dll
+[30/06/2022 16:57:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 16:57:47]   Loaded.
+[30/06/2022 16:57:47]  Loading plugin: sscanf.dll
+[30/06/2022 16:57:47] 
+
+[30/06/2022 16:57:47]  ===============================
+
+[30/06/2022 16:57:47]       sscanf plugin loaded.     
+
+[30/06/2022 16:57:47]          Version:  2.8.3        
+
+[30/06/2022 16:57:47]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 16:57:47]  ===============================
+
+[30/06/2022 16:57:47]   Loaded.
+[30/06/2022 16:57:47]  Loading plugin: mysql.dll
+[30/06/2022 16:57:47]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 16:57:47]   Loaded.
+[30/06/2022 16:57:47]  Loading plugin: pawnraknet.dll
+[30/06/2022 16:57:47] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 16:57:47]   Loaded.
+[30/06/2022 16:57:47]  Loading plugin: pawncmd.dll
+[30/06/2022 16:57:47] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 16:57:47]   Loaded.
+[30/06/2022 16:57:47]  Loading plugin: nativechecker.dll
+[30/06/2022 16:57:47]   Loaded.
+[30/06/2022 16:57:47]  Loaded 6 plugins.
+
+[30/06/2022 16:57:47] 
+[30/06/2022 16:57:47] Filterscripts
+[30/06/2022 16:57:47] ---------------
+[30/06/2022 16:57:47]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 16:57:48]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 16:57:48]   Loaded 2 filterscripts.
+
+[30/06/2022 16:57:58] |------------------------------------------|
+[30/06/2022 16:57:58] | Conexión fallida con la base de datos  |
+[30/06/2022 16:57:58] | El servidor se cerrará en 5 segundos...  |
+[30/06/2022 16:57:58] |------------------------------------------|
+[30/06/2022 16:57:58]  
+[30/06/2022 16:57:58] Number of vehicle models: 3
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback -  - Query: UPDATE `usuarios` SET `Online` = '0'
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - OnQueryFinish - Query: SELECT * FROM action_queue WHERE status = '0'
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarAutos - Query: SELECT * FROM `vehicles`
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarBandas - Query: SELECT * FROM `facciones`
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarRegistros - Query: SELECT * FROM `registros`
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarPropiedades - Query: SELECT * FROM `propiedades`
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - LoadParkings - Query: SELECT * FROM estacionamientos
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - LoadDoor - Query: SELECT * FROM `doors`
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - cargarRoboTiendas - Query: SELECT * FROM `actores_tiendas`
+[30/06/2022 16:58:00] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarZonas - Query: SELECT * FROM `zonas` WHERE `Z_Activa` = '1' LIMIT 100
+[30/06/2022 16:58:04] --- Server Shutting Down.
+[30/06/2022 16:58:04] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+[30/06/2022 16:58:04] 
+
+[30/06/2022 16:58:04]  ===============================
+
+[30/06/2022 16:58:04]      sscanf plugin unloaded.    
+
+[30/06/2022 16:58:04]  ===============================
+
+[30/06/2022 16:58:04] plugin.mysql: Unloading plugin...
+[30/06/2022 16:58:04] plugin.mysql: Plugin unloaded.
+[30/06/2022 16:58:04] Pawn.RakNet plugin v1.3.0 by urShadow has been unloaded
+[30/06/2022 16:58:04] Pawn.CMD plugin v3.2.0 by urShadow has been unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 17:03:22] 
+[30/06/2022 17:03:22] Server Plugins
+[30/06/2022 17:03:22] --------------
+[30/06/2022 17:03:22]  Loading plugin: streamer.dll
+[30/06/2022 17:03:22] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 17:03:22]   Loaded.
+[30/06/2022 17:03:22]  Loading plugin: sscanf.dll
+[30/06/2022 17:03:22] 
+
+[30/06/2022 17:03:22]  ===============================
+
+[30/06/2022 17:03:22]       sscanf plugin loaded.     
+
+[30/06/2022 17:03:22]          Version:  2.8.3        
+
+[30/06/2022 17:03:22]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 17:03:22]  ===============================
+
+[30/06/2022 17:03:22]   Loaded.
+[30/06/2022 17:03:22]  Loading plugin: mysql.dll
+[30/06/2022 17:03:22]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 17:03:22]   Loaded.
+[30/06/2022 17:03:22]  Loading plugin: pawnraknet.dll
+[30/06/2022 17:03:22] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 17:03:22]   Loaded.
+[30/06/2022 17:03:22]  Loading plugin: pawncmd.dll
+[30/06/2022 17:03:22] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 17:03:22]   Loaded.
+[30/06/2022 17:03:22]  Loading plugin: nativechecker.dll
+[30/06/2022 17:03:22]   Loaded.
+[30/06/2022 17:03:22]  Loaded 6 plugins.
+
+[30/06/2022 17:03:22] 
+[30/06/2022 17:03:22] Filterscripts
+[30/06/2022 17:03:22] ---------------
+[30/06/2022 17:03:22]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 17:03:22]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 17:03:22]   Loaded 2 filterscripts.
+
+[30/06/2022 17:03:33] |------------------------------------------|
+[30/06/2022 17:03:33] | Conexión fallida con la base de datos  |
+[30/06/2022 17:03:33] | El servidor se cerrará en 5 segundos...  |
+[30/06/2022 17:03:33] |------------------------------------------|
+[30/06/2022 17:03:33]  
+[30/06/2022 17:03:33] Number of vehicle models: 3
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback -  - Query: UPDATE `usuarios` SET `Online` = '0'
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - OnQueryFinish - Query: SELECT * FROM action_queue WHERE status = '0'
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarAutos - Query: SELECT * FROM `vehicles`
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarBandas - Query: SELECT * FROM `facciones`
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarRegistros - Query: SELECT * FROM `registros`
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarPropiedades - Query: SELECT * FROM `propiedades`
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - LoadParkings - Query: SELECT * FROM estacionamientos
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - LoadDoor - Query: SELECT * FROM `doors`
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - cargarRoboTiendas - Query: SELECT * FROM `actores_tiendas`
+[30/06/2022 17:03:35] [ERROR] ID: 2005 - Error: Unknown MySQL server host 'fzrol1' (0) - Callback - CargarZonas - Query: SELECT * FROM `zonas` WHERE `Z_Activa` = '1' LIMIT 100
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 17:06:37] 
+[30/06/2022 17:06:37] Server Plugins
+[30/06/2022 17:06:37] --------------
+[30/06/2022 17:06:37]  Loading plugin: streamer.dll
+[30/06/2022 17:06:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 17:06:37]   Loaded.
+[30/06/2022 17:06:37]  Loading plugin: sscanf.dll
+[30/06/2022 17:06:37] 
+
+[30/06/2022 17:06:37]  ===============================
+
+[30/06/2022 17:06:37]       sscanf plugin loaded.     
+
+[30/06/2022 17:06:37]          Version:  2.8.3        
+
+[30/06/2022 17:06:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 17:06:37]  ===============================
+
+[30/06/2022 17:06:37]   Loaded.
+[30/06/2022 17:06:37]  Loading plugin: mysql.dll
+[30/06/2022 17:06:37]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 17:06:37]   Loaded.
+[30/06/2022 17:06:37]  Loading plugin: pawnraknet.dll
+[30/06/2022 17:06:37] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 17:06:37]   Loaded.
+[30/06/2022 17:06:37]  Loading plugin: pawncmd.dll
+[30/06/2022 17:06:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 17:06:37]   Loaded.
+[30/06/2022 17:06:37]  Loading plugin: nativechecker.dll
+[30/06/2022 17:06:37]   Loaded.
+[30/06/2022 17:06:37]  Loaded 6 plugins.
+
+[30/06/2022 17:06:37] 
+[30/06/2022 17:06:37] Filterscripts
+[30/06/2022 17:06:37] ---------------
+[30/06/2022 17:06:37]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 17:06:37]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 17:06:37]   Loaded 2 filterscripts.
+
+[30/06/2022 17:06:37] ---------------------------------------------------------
+[30/06/2022 17:06:37]  	      fenixzone Roleplay - Versión v1.0 
+[30/06/2022 17:06:37]                    Gamemode hecha por Yarmak
+[30/06/2022 17:06:37]                s1.fenixzone.com - rol.fenixzone.com
+[30/06/2022 17:06:37] ---------------------------------------------------------
+[30/06/2022 17:06:37]  
+[30/06/2022 17:06:37] Number of vehicle models: 3
+[30/06/2022 17:06:40] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+[30/06/2022 17:06:40] Autos a cargar: 261
+[30/06/2022 17:06:40] 98 territorios
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 17:07:34] 
+[30/06/2022 17:07:34] Server Plugins
+[30/06/2022 17:07:34] --------------
+[30/06/2022 17:07:34]  Loading plugin: streamer.dll
+[30/06/2022 17:07:34] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 17:07:34]   Loaded.
+[30/06/2022 17:07:34]  Loading plugin: sscanf.dll
+[30/06/2022 17:07:34] 
+
+[30/06/2022 17:07:34]  ===============================
+
+[30/06/2022 17:07:34]       sscanf plugin loaded.     
+
+[30/06/2022 17:07:34]          Version:  2.8.3        
+
+[30/06/2022 17:07:34]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 17:07:34]  ===============================
+
+[30/06/2022 17:07:34]   Loaded.
+[30/06/2022 17:07:34]  Loading plugin: mysql.dll
+[30/06/2022 17:07:34]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 17:07:34]   Loaded.
+[30/06/2022 17:07:34]  Loading plugin: pawnraknet.dll
+[30/06/2022 17:07:34] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 17:07:34]   Loaded.
+[30/06/2022 17:07:34]  Loading plugin: pawncmd.dll
+[30/06/2022 17:07:34] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 17:07:34]   Loaded.
+[30/06/2022 17:07:34]  Loading plugin: nativechecker.dll
+[30/06/2022 17:07:34]   Loaded.
+[30/06/2022 17:07:34]  Loaded 6 plugins.
+
+[30/06/2022 17:07:34] 
+[30/06/2022 17:07:34] Filterscripts
+[30/06/2022 17:07:34] ---------------
+[30/06/2022 17:07:34]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 17:07:34]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 17:07:34]   Loaded 2 filterscripts.
+
+[30/06/2022 17:07:34] ---------------------------------------------------------
+[30/06/2022 17:07:34]  	      fenixzone Roleplay - Versión v1.0 
+[30/06/2022 17:07:34]                    Gamemode hecha por Yarmak
+[30/06/2022 17:07:34]                s1.fenixzone.com - rol.fenixzone.com
+[30/06/2022 17:07:34] ---------------------------------------------------------
+[30/06/2022 17:07:34]  
+[30/06/2022 17:07:34] Number of vehicle models: 3
+[30/06/2022 17:07:36] Autos a cargar: 261
+[30/06/2022 17:07:37] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 17:10:13] 
+[30/06/2022 17:10:13] Server Plugins
+[30/06/2022 17:10:13] --------------
+[30/06/2022 17:10:13]  Loading plugin: streamer.dll
+[30/06/2022 17:10:13] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 17:10:13]   Loaded.
+[30/06/2022 17:10:13]  Loading plugin: sscanf.dll
+[30/06/2022 17:10:13] 
+
+[30/06/2022 17:10:13]  ===============================
+
+[30/06/2022 17:10:13]       sscanf plugin loaded.     
+
+[30/06/2022 17:10:13]          Version:  2.8.3        
+
+[30/06/2022 17:10:13]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 17:10:13]  ===============================
+
+[30/06/2022 17:10:13]   Loaded.
+[30/06/2022 17:10:13]  Loading plugin: mysql.dll
+[30/06/2022 17:10:13]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 17:10:13]   Loaded.
+[30/06/2022 17:10:13]  Loading plugin: pawnraknet.dll
+[30/06/2022 17:10:13] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 17:10:13]   Loaded.
+[30/06/2022 17:10:13]  Loading plugin: pawncmd.dll
+[30/06/2022 17:10:13] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 17:10:13]   Loaded.
+[30/06/2022 17:10:13]  Loading plugin: nativechecker.dll
+[30/06/2022 17:10:13]   Loaded.
+[30/06/2022 17:10:13]  Loaded 6 plugins.
+
+[30/06/2022 17:10:13] 
+[30/06/2022 17:10:13] Filterscripts
+[30/06/2022 17:10:13] ---------------
+[30/06/2022 17:10:13]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 17:10:13]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 17:10:13]   Loaded 2 filterscripts.
+
+[30/06/2022 17:10:13] ---------------------------------------------------------
+[30/06/2022 17:10:13]  	      fenixzone Roleplay - Versión v5.00 
+[30/06/2022 17:10:13]                s1.fenixzone.com - rol.fenixzone.com
+[30/06/2022 17:10:13] ---------------------------------------------------------
+[30/06/2022 17:10:13]  
+[30/06/2022 17:10:13] Number of vehicle models: 3
+[30/06/2022 17:10:15] Autos a cargar: 261
+[30/06/2022 17:10:15] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+[30/06/2022 17:11:32] [connection] incoming connection: 127.0.0.1:55020 id: 0
+[30/06/2022 17:11:32] [join] Proxy_Player has joined the server (0:127.0.0.1)
+[30/06/2022 17:11:32] [nick] Proxy_Player nick changed to 1bIm725Sl6j4b50
+[30/06/2022 17:11:57] [ERROR] ID: 1146 - Error: Table 'fz.smf_settings' doesn't exist - Callback -  - Query: UPDATE `smf_settings` SET `Value`='Proxy_Player' WHERE `Variable`='latestRealName'
+[30/06/2022 17:11:57] [ERROR] ID: 1146 - Error: Table 'fz.smf_settings' doesn't exist - Callback -  - Query: UPDATE `smf_settings` SET `Value`='3629' WHERE `Variable`='latestMember'
+[30/06/2022 17:11:57] [ERROR] ID: 1146 - Error: Table 'fz.smf_settings' doesn't exist - Callback -  - Query: UPDATE `smf_settings` SET `Value`='3629' WHERE `Variable`='totalMembers'
+[30/06/2022 17:11:57] [ERROR] ID: 1146 - Error: Table 'fz.smf_members' doesn't exist - Callback -  - Query: INSERT INTO `smf_members` (member_name, passwd, real_name, date_registered, id_group, email_address,buddy_list, is_activated) VALUES ('Proxy_Player', SHA1(CONCAT(LOWER('12345'))), 'Proxy Player',UNIX_TIMESTAMP(now()), 13, 'fenixzonekanox@gmail.com','0', '1')
+[30/06/2022 17:12:03] [nick] 1bIm725Sl6j4b50 nick changed to Proxy_Player
+[30/06/2022 17:12:27] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '0.000000', EntradaY = '0.000000', EntradaZ = '0.000000', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:12:28] [part] Proxy_Player has left the server (0:1)
+[30/06/2022 17:12:28] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '0.000000', EntradaY = '0.000000', EntradaZ = '0.000000', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[30/06/2022 17:16:33] 
+[30/06/2022 17:16:33] Server Plugins
+[30/06/2022 17:16:33] --------------
+[30/06/2022 17:16:33]  Loading plugin: streamer.dll
+[30/06/2022 17:16:33] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[30/06/2022 17:16:33]   Loaded.
+[30/06/2022 17:16:33]  Loading plugin: sscanf.dll
+[30/06/2022 17:16:33] 
+
+[30/06/2022 17:16:33]  ===============================
+
+[30/06/2022 17:16:33]       sscanf plugin loaded.     
+
+[30/06/2022 17:16:33]          Version:  2.8.3        
+
+[30/06/2022 17:16:33]   (c) 2018 Alex "Y_Less" Cole  
+
+[30/06/2022 17:16:33]  ===============================
+
+[30/06/2022 17:16:33]   Loaded.
+[30/06/2022 17:16:33]  Loading plugin: mysql.dll
+[30/06/2022 17:16:33]  >> plugin.mysql: R41-4 successfully loaded.
+[30/06/2022 17:16:33]   Loaded.
+[30/06/2022 17:16:33]  Loading plugin: pawnraknet.dll
+[30/06/2022 17:16:33] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[30/06/2022 17:16:33]   Loaded.
+[30/06/2022 17:16:33]  Loading plugin: pawncmd.dll
+[30/06/2022 17:16:33] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[30/06/2022 17:16:33]   Loaded.
+[30/06/2022 17:16:33]  Loading plugin: nativechecker.dll
+[30/06/2022 17:16:33]   Loaded.
+[30/06/2022 17:16:33]  Loaded 6 plugins.
+
+[30/06/2022 17:16:33] 
+[30/06/2022 17:16:33] Filterscripts
+[30/06/2022 17:16:33] ---------------
+[30/06/2022 17:16:33]   Loading filterscript 'Mapas.amx'...
+[30/06/2022 17:16:33]   Loading filterscript 'ls_elevator.amx'...
+[30/06/2022 17:16:33]   Loaded 2 filterscripts.
+
+[30/06/2022 17:16:33] ---------------------------------------------------------
+[30/06/2022 17:16:33]  	      fenixzone Roleplay - Versión v5.00 
+[30/06/2022 17:16:33]                s1.fenixzone.com - rol.fenixzone.com
+[30/06/2022 17:16:33] ---------------------------------------------------------
+[30/06/2022 17:16:33]  
+[30/06/2022 17:16:33] Number of vehicle models: 3
+[30/06/2022 17:16:36] Autos a cargar: 261
+[30/06/2022 17:16:36] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+[30/06/2022 17:16:59] [connection] incoming connection: 127.0.0.1:55021 id: 0
+[30/06/2022 17:16:59] [join] Proxy_Player has joined the server (0:127.0.0.1)
+[30/06/2022 17:16:59] [nick] Proxy_Player nick changed to T3m67j5w78b4368
+[30/06/2022 17:17:11] [nick] T3m67j5w78b4368 nick changed to Proxy_Player
+[30/06/2022 17:17:40] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '1833.520996', EntradaY = '-1842.323730', EntradaZ = '13.578125', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:18:37] [part] Proxy_Player has left the server (0:1)
+[30/06/2022 17:18:37] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '-30.697918', EntradaY = '-91.779144', EntradaZ = '1003.546875', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:20:56] [connection] incoming connection: 127.0.0.1:58847 id: 0
+[30/06/2022 17:20:56] [join] Proxy_Player has joined the server (0:127.0.0.1)
+[30/06/2022 17:20:56] [nick] Proxy_Player nick changed to j45TC7e934fsv3W
+[30/06/2022 17:21:19] [nick] j45TC7e934fsv3W nick changed to Proxy_Player
+[30/06/2022 17:22:01] sscanf warning: String buffer overflow.
+[30/06/2022 17:22:04] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '-30.504436', EntradaY = '-91.830086', EntradaZ = '1003.546875', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:22:33] sscanf warning: String buffer overflow.
+[30/06/2022 17:23:10] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '2223.825439', EntradaY = '-2226.297607', EntradaZ = '13.546875', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:24:15] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '2058.540039', EntradaY = '2437.260010', EntradaZ = '10.842813', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:25:21] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '2811.182129', EntradaY = '-2575.884033', EntradaZ = '2.250607', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:26:14] [chat] [Proxy_Player]: GAME MODE FENIXZONE v5.00 
+[30/06/2022 17:26:27] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '-149.372116', EntradaY = '-1567.527466', EntradaZ = '7.348977', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:26:29] [part] Proxy_Player has left the server (0:1)
+[30/06/2022 17:26:29] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '-149.372116', EntradaY = '-1567.527466', EntradaZ = '7.348977', `TiempoAD` = '0' WHERE `Username`='Proxy_Player'
+[30/06/2022 17:26:47] [ERROR] ID: 2002 - Error: Can't connect to MySQL server on 'localhost' (10061) - Callback - OnQueryFinish - Query: SELECT * FROM action_queue WHERE status = '0'
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16/12/2022 09:14:29] 
+[16/12/2022 09:14:29] Server Plugins
+[16/12/2022 09:14:29] --------------
+[16/12/2022 09:14:29]  Loading plugin: streamer.dll
+[16/12/2022 09:14:29] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16/12/2022 09:14:29]   Loaded.
+[16/12/2022 09:14:29]  Loading plugin: sscanf.dll
+[16/12/2022 09:14:29] 
+
+[16/12/2022 09:14:29]  ===============================
+
+[16/12/2022 09:14:29]       sscanf plugin loaded.     
+
+[16/12/2022 09:14:29]          Version:  2.8.3        
+
+[16/12/2022 09:14:29]   (c) 2018 Alex "Y_Less" Cole  
+
+[16/12/2022 09:14:29]  ===============================
+
+[16/12/2022 09:14:29]   Loaded.
+[16/12/2022 09:14:29]  Loading plugin: mysql.dll
+[16/12/2022 09:14:29]  >> plugin.mysql: R41-4 successfully loaded.
+[16/12/2022 09:14:29]   Loaded.
+[16/12/2022 09:14:29]  Loading plugin: pawnraknet.dll
+[16/12/2022 09:14:29] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[16/12/2022 09:14:29]   Loaded.
+[16/12/2022 09:14:29]  Loading plugin: pawncmd.dll
+[16/12/2022 09:14:29] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16/12/2022 09:14:29]   Loaded.
+[16/12/2022 09:14:29]  Loading plugin: nativechecker.dll
+[16/12/2022 09:14:29]   Loaded.
+[16/12/2022 09:14:29]  Loaded 6 plugins.
+
+[16/12/2022 09:14:29] 
+[16/12/2022 09:14:29] Filterscripts
+[16/12/2022 09:14:29] ---------------
+[16/12/2022 09:14:29]   Loading filterscript 'Mapas.amx'...
+[16/12/2022 09:14:29]   Loading filterscript 'ls_elevator.amx'...
+[16/12/2022 09:14:29]   Loaded 2 filterscripts.
+
+[16/12/2022 09:14:29] ---------------------------------------------------------
+[16/12/2022 09:14:29]  	      fenixzone Roleplay - Versión v5.00 
+[16/12/2022 09:14:29]                s1.fenixzone.com - rol.fenixzone.com
+[16/12/2022 09:14:29] ---------------------------------------------------------
+[16/12/2022 09:14:29]  
+[16/12/2022 09:14:29] Number of vehicle models: 3
+[16/12/2022 09:14:32] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+[16/12/2022 09:14:32] Autos a cargar: 261
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16/12/2022 09:21:21] 
+[16/12/2022 09:21:21] Server Plugins
+[16/12/2022 09:21:21] --------------
+[16/12/2022 09:21:21]  Loading plugin: streamer.dll
+[16/12/2022 09:21:21] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16/12/2022 09:21:21]   Loaded.
+[16/12/2022 09:21:21]  Loading plugin: sscanf.dll
+[16/12/2022 09:21:21] 
+
+[16/12/2022 09:21:21]  ===============================
+
+[16/12/2022 09:21:21]       sscanf plugin loaded.     
+
+[16/12/2022 09:21:21]          Version:  2.8.3        
+
+[16/12/2022 09:21:21]   (c) 2018 Alex "Y_Less" Cole  
+
+[16/12/2022 09:21:21]  ===============================
+
+[16/12/2022 09:21:21]   Loaded.
+[16/12/2022 09:21:21]  Loading plugin: mysql.dll
+[16/12/2022 09:21:21]  >> plugin.mysql: R41-4 successfully loaded.
+[16/12/2022 09:21:21]   Loaded.
+[16/12/2022 09:21:21]  Loading plugin: pawnraknet.dll
+[16/12/2022 09:21:21] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[16/12/2022 09:21:21]   Loaded.
+[16/12/2022 09:21:21]  Loading plugin: pawncmd.dll
+[16/12/2022 09:21:21] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16/12/2022 09:21:21]   Loaded.
+[16/12/2022 09:21:21]  Loading plugin: nativechecker.dll
+[16/12/2022 09:21:21]   Loaded.
+[16/12/2022 09:21:21]  Loaded 6 plugins.
+
+[16/12/2022 09:21:22] 
+[16/12/2022 09:21:22] Filterscripts
+[16/12/2022 09:21:22] ---------------
+[16/12/2022 09:21:22]   Loading filterscript 'Mapas.amx'...
+[16/12/2022 09:21:22]   Loading filterscript 'ls_elevator.amx'...
+[16/12/2022 09:21:22]   Loaded 2 filterscripts.
+
+[16/12/2022 09:21:22] ---------------------------------------------------------
+[16/12/2022 09:21:22]  	      fenixzone Roleplay - Versión v5.00 
+[16/12/2022 09:21:22]                s1.fenixzone.com - rol.fenixzone.com
+[16/12/2022 09:21:22] ---------------------------------------------------------
+[16/12/2022 09:21:22]  
+[16/12/2022 09:21:22] Number of vehicle models: 3
+[16/12/2022 09:21:24] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+[16/12/2022 09:21:24] Autos a cargar: 261
+[16/12/2022 09:22:02] [connection] incoming connection: 127.0.0.1:61594 id: 0
+[16/12/2022 09:22:03] [join] Guilherme_Martinelli has joined the server (0:127.0.0.1)
+[16/12/2022 09:22:03] [nick] Guilherme_Martinelli nick changed to 9SIV304Q7b09os5
+[16/12/2022 09:22:22] [ERROR] ID: 1146 - Error: Table 'fz.smf_settings' doesn't exist - Callback -  - Query: UPDATE `smf_settings` SET `Value`='3629' WHERE `Variable`='totalMembers'
+[16/12/2022 09:22:22] [ERROR] ID: 1146 - Error: Table 'fz.smf_members' doesn't exist - Callback -  - Query: INSERT INTO `smf_members` (member_name, passwd, real_name, date_registered, id_group, email_address,buddy_list, is_activated) VALUES ('Guilherme_Martinelli', SHA1(CONCAT(LOWER('GV333333'))), 'Guilherme Martinelli',UNIX_TIMESTAMP(now()), 13, 'guilhermerossowcamilo@gmail.com','0', '1')
+[16/12/2022 09:22:22] [ERROR] ID: 1146 - Error: Table 'fz.smf_settings' doesn't exist - Callback -  - Query: UPDATE `smf_settings` SET `Value`='Guilherme_Martinelli' WHERE `Variable`='latestRealName'
+[16/12/2022 09:22:22] [ERROR] ID: 1146 - Error: Table 'fz.smf_settings' doesn't exist - Callback -  - Query: UPDATE `smf_settings` SET `Value`='3629' WHERE `Variable`='latestMember'
+[16/12/2022 09:22:27] [nick] 9SIV304Q7b09os5 nick changed to Guilherme_Martinelli
+[16/12/2022 09:22:28] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '0.000000', EntradaY = '0.000000', EntradaZ = '0.000000', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:23:34] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '0.000000', EntradaY = '0.000000', EntradaZ = '0.000000', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:24:08] [part] Guilherme_Martinelli has left the server (0:1)
+[16/12/2022 09:24:08] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '0.000000', EntradaY = '0.000000', EntradaZ = '0.000000', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16/12/2022 09:28:27] 
+[16/12/2022 09:28:27] Server Plugins
+[16/12/2022 09:28:27] --------------
+[16/12/2022 09:28:27]  Loading plugin: streamer.dll
+[16/12/2022 09:28:27] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16/12/2022 09:28:27]   Loaded.
+[16/12/2022 09:28:27]  Loading plugin: sscanf.dll
+[16/12/2022 09:28:27] 
+
+[16/12/2022 09:28:27]  ===============================
+
+[16/12/2022 09:28:27]       sscanf plugin loaded.     
+
+[16/12/2022 09:28:27]          Version:  2.8.3        
+
+[16/12/2022 09:28:27]   (c) 2018 Alex "Y_Less" Cole  
+
+[16/12/2022 09:28:27]  ===============================
+
+[16/12/2022 09:28:27]   Loaded.
+[16/12/2022 09:28:27]  Loading plugin: mysql.dll
+[16/12/2022 09:28:27]  >> plugin.mysql: R41-4 successfully loaded.
+[16/12/2022 09:28:27]   Loaded.
+[16/12/2022 09:28:27]  Loading plugin: pawnraknet.dll
+[16/12/2022 09:28:27] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[16/12/2022 09:28:27]   Loaded.
+[16/12/2022 09:28:27]  Loading plugin: pawncmd.dll
+[16/12/2022 09:28:27] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16/12/2022 09:28:27]   Loaded.
+[16/12/2022 09:28:27]  Loading plugin: nativechecker.dll
+[16/12/2022 09:28:27]   Loaded.
+[16/12/2022 09:28:27]  Loaded 6 plugins.
+
+[16/12/2022 09:28:28] 
+[16/12/2022 09:28:28] Filterscripts
+[16/12/2022 09:28:28] ---------------
+[16/12/2022 09:28:28]   Loading filterscript 'Mapas.amx'...
+[16/12/2022 09:28:28]   Loading filterscript 'ls_elevator.amx'...
+[16/12/2022 09:28:28]   Loaded 2 filterscripts.
+
+[16/12/2022 09:28:28] ---------------------------------------------------------
+[16/12/2022 09:28:28]  	      fenixzone Roleplay - Versión v5.00 
+[16/12/2022 09:28:28]                s1.fenixzone.com - rol.fenixzone.com
+[16/12/2022 09:28:28] ---------------------------------------------------------
+[16/12/2022 09:28:28]  
+[16/12/2022 09:28:28] Number of vehicle models: 3
+[16/12/2022 09:28:30] Autos a cargar: 261
+[16/12/2022 09:28:30] 
+[Propiedades]: 0 propiedades fueron cargadas.
+
+[16/12/2022 09:28:54] [connection] incoming connection: 127.0.0.1:55338 id: 0
+[16/12/2022 09:28:54] [join] Guilherme_Martinelli has joined the server (0:127.0.0.1)
+[16/12/2022 09:28:54] [nick] Guilherme_Martinelli nick changed to 4O6RFe41E56TS03
+[16/12/2022 09:29:13] [chat] [4O6RFe41E56TS03]: !!
+[16/12/2022 09:29:17] [chat] [4O6RFe41E56TS03]: !!
+[16/12/2022 09:29:18] [nick] 4O6RFe41E56TS03 nick changed to Guilherme_Martinelli
+[16/12/2022 09:29:34] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '276.184479', EntradaY = '121.946709', EntradaZ = '1004.617188', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:30:40] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '246.427643', EntradaY = '107.326820', EntradaZ = '1003.218750', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:31:46] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '246.427643', EntradaY = '107.326820', EntradaZ = '1003.218750', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:32:52] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:33:58] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:35:04] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:36:10] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:37:17] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:38:23] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:39:29] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:40:35] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:41:41] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:42:47] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:43:53] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:44:59] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:46:05] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:47:11] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:48:17] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '649.285522', EntradaY = '-1360.488403', EntradaZ = '13.584255', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:49:23] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:50:28] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:51:35] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:52:41] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:53:46] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:54:51] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:55:57] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:57:03] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:58:09] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 09:59:15] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:00:21] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:01:28] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:02:34] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:03:40] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:04:46] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:05:52] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:06:58] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:08:03] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:09:09] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:10:15] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:11:20] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:12:25] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:13:31] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:14:37] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:15:43] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:16:49] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:17:55] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:19:01] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:20:07] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:21:13] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:22:19] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:23:25] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:24:32] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:25:38] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:26:43] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:27:49] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:28:55] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:30:01] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:31:06] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:32:12] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:33:18] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:34:24] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:35:31] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:36:37] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:37:42] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:38:48] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:39:54] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:41:00] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:42:06] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:43:11] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:44:17] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:45:23] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:46:28] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:47:34] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:48:41] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:49:47] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:50:53] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:52:00] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:53:06] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:54:11] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:55:17] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:56:24] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
+[16/12/2022 10:56:27] [part] Guilherme_Martinelli has left the server (0:1)
+[16/12/2022 10:56:27] [ERROR] ID: 1054 - Error: Unknown column 'TiempoAD' in 'field list' - Callback -  - Query: UPDATE `usuarios` SET ExpLadron = '0', EntradaX = '498.993774', EntradaY = '-1360.408936', EntradaZ = '16.367538', `TiempoAD` = '0' WHERE `Username`='Guilherme_Martinelli'
